@@ -3275,6 +3275,7 @@ hitcount
 HitCount.jsp
 HNAP1/
 Home
+humans.txt
 home
 home.html
 home.php
@@ -6036,3 +6037,8 @@ zimbra
 zimbra/
 zone-h.php
 ~admin/
+.well-known
+.git
+keybase.txt
+mta-sts.txt
+xrp-ledger.toml
